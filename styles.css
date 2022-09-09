@@ -1,5 +1,29 @@
+body {
+  /* background-image: linear-gradient(#FFE082, #8FFFE4); */
+  background: #8FFFE4;
+  /* background: linear-gradient(0deg, rgba(255,224,130,1) 0%, rgba(143,255,228,1) 100%); */
+}
 .container {
   width: 70%;
   margin: auto;
   text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Press Start 2P', cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 6rem;
+  color: #FFE082;
+}
+
+p {
+  font-size: 1.5rem;
+  color: #4ECCA3;
+  font-family: 'Press Start 2P', cursive;
 }
