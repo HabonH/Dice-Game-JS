@@ -27,3 +27,15 @@ p {
   color: #4ECCA3;
   font-family: 'Press Start 2P', cursive;
 }
+
+img {
+  width: 80%;
+}
+
+footer {
+  margin-top: 5%;
+  color: #EEEEEE;
+  text-align: center;
+  font-family: 'Press Start 2P', cursive;
+  font-size: 0.5rem;
+}
